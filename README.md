@@ -36,5 +36,9 @@ Subscribers dominant the bikesharing marketshare
 ## Summary
 Bikesharing usage is clustered around commuting times. In performing more in-depth future analyses, we would propose the below visualizations:
   1. Top Locations by StartTime that's filtered on commuting times
-  2. Top Locations with missing bikes 
+  2. Top Locations with missing bikes
+
+Link to NYC Citi Bike Analysis Storyboard: https://public.tableau.com/app/profile/jake.l1756/viz/NYCCitiBikeAnalysis_16320941362080/Story1?publish=yes
+
+
 
